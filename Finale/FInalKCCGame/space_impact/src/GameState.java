@@ -1,0 +1,10 @@
+public enum GameState {
+    HOME_MENU,
+    START_GAME_MENU,
+    NAME_ENTRY,
+    PLAYING,
+    PAUSE_MENU,
+    GAME_OVER,
+    LEADERBOARD,
+    LEADERBOARD_MENU
+}
